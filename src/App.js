@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from "react-dom";
 // import components here 
 //import Item from '/Users/nadiachilds/Desktop/React-Todo/src/components/TodoComponents/Todo.js';
-import TodoForm from '/Users/nadiachilds/Desktop/React-Todo/src/components/TodoComponents/TodoForm.js';
-  import TodoList from '/Users/nadiachilds/Desktop/React-Todo/src/components/TodoComponents/TodoList.js';
+import TodoForm from './components/TodoComponents/TodoForm'
+  import TodoList from './components/TodoComponents/TodoList'
 const tasks = [
   {
   task: 'Organize Garage',
